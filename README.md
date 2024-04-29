@@ -1,7 +1,7 @@
 # Btool                   by 樱溪梦花team
 
 > 所以你的数据均本地处理,依赖chrome浏览器和chromedriver处理，请确保两者一样，chromedriver网络配置不稳定，最好本地配置
-> 安装教程：https://blog.csdn.net/qq_40910781/article/details/124568654
+> 安装教程：https://blog.csdn.net/qq_40910781/article/details/124568654和https://blog.csdn.net/weixin_45109684/article/details/117650036
 > ！！！软件免费哦\~\~收费是大骗子！！！
 
 ### 总功能
